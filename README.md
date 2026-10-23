@@ -1,6 +1,6 @@
 # 🚀 Full Stack Internship — ERP & Daily Learning
  
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Fullstack%20Internship&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Daily%20Learning%20%7C%20Tasks%20%7C%20Projects&descAlignY=58&descSize=20" width="100%" alt="Full Stack Internship Banner" />
 
