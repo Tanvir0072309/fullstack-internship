@@ -245,19 +245,7 @@ The following percentages are self-assessed learning estimates from the original
 
 ---
 
-## 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tanvir0072309&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir0072309&theme=tokyonight&hide_border=true" height="165" alt="GitHub Contribution Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir0072309&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Activity" />
-
-</div>
-
----
 
 ## 👨‍💻 Author
 
