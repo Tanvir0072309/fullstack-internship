@@ -1,3 +1,5 @@
+cd ~/Tanvir/fullstack-internship && \
+cat > README.md << 'READMEEOF'
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                    🚀 FULLSTACK INTERNSHIP — ERP 🚀                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -29,7 +31,7 @@
 
 <div align="center">
 
-## 📖 About This Repo
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%93%96%20About%20This%20Repo&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -60,7 +62,7 @@
 
 <div align="center">
 
-## 🎯 Objectives
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%8E%AF%20Objectives&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -84,7 +86,7 @@
 
 <div align="center">
 
-## 🗂️ Repository Structure
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%97%82%EF%B8%8F%20Repository%20Structure&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -113,7 +115,35 @@
     │   ├── 📜 Day3-Task5.js          → Mini Project
     │   └── 📜 Day3-Task6.js          → Viva Questions
     │
-    ├── 📁 Day-4/                    🟡 Coming Soon
+    ├── 📁 Day-4/                    🟡 Async JavaScript (Promises & Async/Await)
+    │   ├── 📜 Day4-Task1.js          → Callback to Promise
+    │   ├── 📜 Day4-Task2.js          → Promise Chaining
+    │   ├── 📜 Day4-Task3.js          → Error Propagation
+    │   ├── 📜 Day4-Task4.js          → Async / Await
+    │   ├── 📜 Day4-Task5.js          → API Request
+    │   ├── 📜 Day4-Task6.js          → Concurrent Requests (Promise.all)
+    │   ├── 📜 Day4-Task7.js          → Promise Combinators
+    │   ├── 📜 Day4-Task8.js          → Debugging Async Code
+    │   ├── 📜 Day4-Task9.js          → Event Loop Challenge
+    │   └── 📜 Day4-Task10.js         → Mini App: User Directory
+    │
+    ├── 📁 Day-5/                    🟠 Browser Storage (localStorage / sessionStorage)
+    │   ├── 📜 Day5-Task1.js          → Save & Read (localStorage)
+    │   ├── 📜 Day5-Task2.js          → Store an Object
+    │   ├── 📜 Day5-Task3.js          → Session Storage
+    │   ├── 📜 Day5-Task4.js          → Persistent Task List
+    │   ├── 📜 Day5-Task5.js          → Error Handling (Invalid JSON)
+    │   └── 📜 Day5-Task6.js          → Security Discussion
+    │
+    ├── 📁 Day-7/                    🔴 Problem Solving & Algorithms
+    │   ├── 📜 Day7-Task1.js          → Positive / Negative / Zero
+    │   ├── 📜 Day7-Task2.js          → Minutes to Seconds
+    │   ├── 📜 Day7-Task3.js          → First & Last Element
+    │   ├── 📜 Day7-Task4.js          → Count Characters
+    │   ├── 📜 Day7-Task5.js          → Multiply All Items
+    │   ├── 📜 Day7-Task6.js          → Find Missing Number
+    │   ├── 📜 Day7-Task7.js          → Recursion: Reverse a String
+    │   └── 📜 Day7-Task8.js          → Merge & Sort Without Built-in Sort
     │
     └── 📄 README.md
 
@@ -121,7 +151,7 @@
 
 <div align="center">
 
-## 📚 Topics Covered
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%93%9A%20Topics%20Covered&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -160,9 +190,28 @@
 </tr>
 <tr>
 <td align="center"><b>Day 4</b></td>
-<td><i>To be updated...</i></td>
+<td>Callbacks, Promises, Async/Await, Error Handling, fetch API, Promise.all, Event Loop</td>
 <td>
-  <img src="https://img.shields.io/badge/Pending-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Async-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Promises-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event%20Loop-orange?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Day 5</b></td>
+<td>localStorage, sessionStorage, JSON serialization, persistence, security best practices</td>
+<td>
+  <img src="https://img.shields.io/badge/Storage-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-red?style=flat-square" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Day 7</b></td>
+<td>Conditionals, conversions, arrays, recursion, string manipulation, sorting algorithms (bubble sort), sum formula</td>
+<td>
+  <img src="https://img.shields.io/badge/Algorithms-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problem%20Solving-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Recursion-red?style=flat-square" />
 </td>
 </tr>
 </tbody>
@@ -172,7 +221,7 @@
 
 <div align="center">
 
-## 🧩 Task Format (Per Day)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%A7%A9%20Task%20Format&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -195,7 +244,7 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
 
 <div align="center">
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%9B%A0%EF%B8%8F%20Tech%20Stack&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -211,7 +260,7 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
 
 <div align="center">
 
-## ▶️ How to Run
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%E2%96%B6%EF%B8%8F%20How%20to%20Run&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -222,6 +271,9 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
     # 2️⃣ Run any task file
     node Day-2/Day2-Task5.js
     node Day-3/Day3-Task4.js
+    node Day-4/Day4-Task5.js
+    node Day-5/Day5-Task4.js
+    node Day-7/Day7-Task8.js
 
     # 3️⃣ Explore & learn 🚀
 
@@ -229,7 +281,7 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
 
 <div align="center">
 
-## 📈 Progress Tracker
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%93%88%20Progress%20Tracker&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -281,13 +333,43 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
 </tr>
 <tr>
 <td align="center"><b>Day 4</b></td>
-<td align="center">⏳</td>
-<td align="center">⏳</td>
-<td align="center">⏳</td>
-<td align="center">⏳</td>
-<td align="center">⏳</td>
-<td align="center">⏳</td>
-<td align="center"><img src="https://img.shields.io/badge/In%20Progress-yellow?style=flat-square" /></td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">—</td>
+<td align="center"><img src="https://img.shields.io/badge/Completed-brightgreen?style=flat-square" /></td>
+</tr>
+<tr>
+<td align="center"><b>Day 5</b></td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">✅</td>
+<td align="center">—</td>
+<td align="center"><img src="https://img.shields.io/badge/Completed-brightgreen?style=flat-square" /></td>
+</tr>
+<tr>
+<td align="center"><b>Day 6</b></td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center"><img src="https://img.shields.io/badge/—%20N%2FA-lightgrey?style=flat-square" /></td>
+</tr>
+<tr>
+<td align="center"><b>Day 7</b></td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center">✅</td>
+<td align="center">—</td>
+<td align="center">—</td>
+<td align="center"><img src="https://img.shields.io/badge/Completed-brightgreen?style=flat-square" /></td>
 </tr>
 </tbody>
 </table>
@@ -298,7 +380,7 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
 
 <div align="center">
 
-## 🎓 Learning Outcomes
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%8E%93%20Learning%20Outcomes&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
 
@@ -311,6 +393,9 @@ Every day's tasks are split into **6 structured sections** — mirroring a prope
 | Array Methods | ![](https://geps.dev/progress/88) |
 | Objects & Destructuring | ![](https://geps.dev/progress/80) |
 | Immutability | ![](https://geps.dev/progress/75) |
+| Async / Promises | ![](https://geps.dev/progress/80) |
+| Browser Storage | ![](https://geps.dev/progress/70) |
+| Algorithms & Recursion | ![](https://geps.dev/progress/72) |
 | Git & Version Control | ![](https://geps.dev/progress/85) |
 
 </div>
@@ -322,6 +407,10 @@ By working through this repository, I aim to:
 - 🎯 Master **array methods** (map, filter, find, forEach, reduce)
 - 🧩 Work confidently with **objects, destructuring, and immutability**
 - ⚛️ Learn **immutable state updates** — critical for React & modern frontend
+- 🔄 Master **async programming**: callbacks → promises → async/await
+- 🌐 Handle **APIs, errors, and concurrency** with `fetch`, `Promise.all`, and `try/catch`
+- 💾 Work with **browser storage** and understand **security pitfalls**
+- 🧮 Solve **algorithmic problems** using recursion & manual sorting
 - 🐛 Develop **debugging discipline** and read stack traces like a pro
 - 🎤 Prepare for **interviews** with clear viva-ready explanations
 
@@ -329,7 +418,7 @@ By working through this repository, I aim to:
 
 <div align="center">
 
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%93%8A%20GitHub%20Stats&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=Tanvir0072309&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
@@ -346,7 +435,7 @@ By working through this repository, I aim to:
 
 <div align="center">
 
-## ✍️ Author
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%E2%9C%8D%EF%B8%8F%20Author&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <br/>
 
@@ -371,7 +460,7 @@ By working through this repository, I aim to:
 
 <div align="center">
 
-## 💡 Quote of the Day
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%92%A1%20Quote%20of%20the%20Day&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 <br/>
 
@@ -385,7 +474,7 @@ By working through this repository, I aim to:
 
 <div align="center">
 
-## 📄 License
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=60&section=header&text=%F0%9F%93%84%20License&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 This repository is maintained for **personal learning and internship documentation**.
 Feel free to browse and reference the code for your own learning. 🎓
@@ -399,3 +488,8 @@ Feel free to browse and reference the code for your own learning. 🎓
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
+READMEEOF
+git add README.md && \
+git commit -m "docs: update README with Day 4, Day 5, Day 7 and add section animations" && \
+echo "" && echo "✅ README.md updated and committed!" && \
+echo "" && git log --oneline -3
